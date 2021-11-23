@@ -1,2 +1,2 @@
 # stnepaste
-Hastebin modify by stonedev
+Hastebin module modify by stonedev
